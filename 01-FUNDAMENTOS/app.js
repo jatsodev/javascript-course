@@ -29,3 +29,4 @@ console.log(x);
 console.warn(x);
 console.error(x);
 console.info(x);
+console.log(a);
